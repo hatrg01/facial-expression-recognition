@@ -1,2 +1,4 @@
 # facial-expression-recognition <br/>
-dataset: https://www.kaggle.com/datasets/debanga/facial-expression-recognition-challenge <br/>
+Dataset: https://www.kaggle.com/datasets/debanga/facial-expression-recognition-challenge <br/>
+Lib: tensorflow
+CNN
